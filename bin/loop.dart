@@ -15,5 +15,5 @@ void main() {
   do {
     print("Do While Loop Run Point: ${doLooper}");
     doLooper++;
-  }while(doLooper <= 10);
+  } while (doLooper <= 10);
 }
